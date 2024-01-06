@@ -30,7 +30,6 @@ Welcome to my Machine Learning repository! This repository is a comprehensive co
 
 ### Tools & Technologies
 - **Python Libraries:** Mastery in scikit-learn, TensorFlow, PyTorch, and Keras.
-- **ML Deployment:** Utilizing Docker, Flask, and various cloud platforms for deploying machine learning models.
 
 ## Contributing
 
