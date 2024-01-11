@@ -11,7 +11,9 @@ scipy = "*"
 statsmodels = "*"
 matplotlib = "*"
 seaborn = "*"
-sklearn= "*"
+scikit-learn = "*"
+keras = "*"
+tensorflow = "*"
 
 [dev-packages]
 
