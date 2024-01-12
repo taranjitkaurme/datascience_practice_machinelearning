@@ -14,6 +14,7 @@ seaborn = "*"
 scikit-learn = "*"
 keras = "*"
 tensorflow = "*"
+minisom = "*"
 
 [dev-packages]
 
