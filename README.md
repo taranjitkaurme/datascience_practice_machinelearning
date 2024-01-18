@@ -1,5 +1,3 @@
-# datascience_practice_machinelearning
-
 # Machine Learning Repository
 
 Welcome to my Machine Learning repository! This repository is a comprehensive collection of projects and tutorials covering a wide range of machine learning topics. Whether you're a beginner or an experienced practitioner, you'll find valuable resources to enhance your ML skills.
@@ -13,12 +11,14 @@ Welcome to my Machine Learning repository! This repository is a comprehensive co
 - [ML Intro - Data Preprocessing](0.%20ML%20Overview/3.%20Data%20Preprocessing.ipynb)
 - [ML Intro - Model Evaluation](0.%20ML%20Overview/8.%20Evaluation%20Metrics%20in%20ML.ipynb)
 
+
+[**Logistic Regression**](02.%20Logistic%20Regression%20(Supervised%20Learning)/logistic%20regression%20algorithm.ipynb)
 ## Algorithms
 
 | Name of Algorithm                                                                                           | Description                                                                                                                                   | Type of Algo           |
 |-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
 | [**Linear Regression**](01.%20Linear%20Regression%20(Supervised%20Learning)/1.%20Linear%20Regression.ipynb) | Predicts a continuous output variable based on one or more input features.                                                                    | Supervised Learning    |
-| **Logistic Regression**                                                                                     | Used for binary classification tasks (predicting a binary outcome).                                                                           | Supervised Learning    |
+| [**Logistic Regression**](02)                                                                               | Used for binary classification tasks (predicting a binary outcome).                                                                           | Supervised Learning    |
 | **Decision Trees**                                                                                          | A flowchart-like tree structure where an internal node represents a feature, and each leaf node represents a decision outcome.                | Supervised Learning    |
 | **Random Forest**                                                                                           | An ensemble of decision trees, typically used for classification problems.                                                                    | Supervised Learning    |
 | **Gradient Boosting Machines (GBM)**                                                                        | An ensemble technique that builds models sequentially, each correcting its predecessor.                                                       | Supervised Learning    |
