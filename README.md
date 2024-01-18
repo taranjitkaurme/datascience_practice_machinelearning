@@ -4,7 +4,15 @@
 
 Welcome to my Machine Learning repository! This repository is a comprehensive collection of projects and tutorials covering a wide range of machine learning topics. Whether you're a beginner or an experienced practitioner, you'll find valuable resources to enhance your ML skills.
 
-## Topics Covered
+## First the basics
+
+- [ML Intro - Basic](0.%20ML%20Overview/0.1%20ML%20Intro%20-%20Basic.ipynb)
+- [ML Intro - Categories of ML Algorithms](0.%20ML%20Overview/0.2.0%20ML%20Intro%20-%20Categories%20of%20ML%20Algos.ipynb)
+  - [ML Intro - Deep Learning](0.%20ML%20Overview/0.2.1%20Deep%20Learning%20Introduction.ipynb)
+- [ML Intro - Python Libs](0.%20ML%20Overview/0.3%20ML%20Intro%20-%20Python%20Libs.ipynb)
+- [ML Intro - Data Preprocessing](0.%20ML%20Overview/3.%20Data%20Preprocessing.ipynb)
+- [ML Intro - Model Evaluation](0.%20ML%20Overview/8.%20Evaluation%20Metrics%20in%20ML.ipynb)
+
 
 ## Supervised Learning Algorithms
 
